@@ -1,0 +1,27 @@
+{
+    "name": "SF_Application", 
+    "description": "Application tools", 
+    "keywords": "Application, tools", 
+    "version": "1.0.0",
+    "repository": {
+        "url": "https://github.com/singleSf/mc-library-application", 
+        "type": "git"
+    }, 
+    "platforms": [
+        "atmelavr", 
+        "atmelmegaavr", 
+        "espressif32", 
+        "espressif8266", 
+        "ststm32", 
+        "ststm8" 
+    ], 
+    "authors": [
+        {
+            "name": "Sergey Badulin",
+            "maintainer": true
+        }
+    ], 
+    "frameworks": [
+        "arduino"
+    ]
+}
