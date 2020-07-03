@@ -11,6 +11,7 @@ class APPLICATION {
     ~APPLICATION();
 
     static void exit();
+    static int getFreeMemory();
 };
 
 #endif
